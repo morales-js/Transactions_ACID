@@ -1,0 +1,12 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Maven
+target/
+
+# CREDENCIALES - nunca subir esto
+config.properties
